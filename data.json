@@ -1,0 +1,54 @@
+{
+  "id": "game4",
+  "LODegree": null,
+  "UserDegree": null,
+  "type": "1",
+  "BloomTargets": ["Applying"],
+  "isNext": true,
+  "platform": "henawy",
+  "randomNumber": null,
+  "numberOfquestion": 3,
+  "data": [
+    {
+      "id": 1,
+      "question": "click",
+      "answers": [null],
+      "wrightAnswerId": null,
+      "userAnswer": null,
+      "numberOfTrial": 0,
+      "level": "",
+      "questionType": null,
+      "answersType": null,
+      "startTime": "",
+      "endTime": ""
+    },
+
+    {
+      "id": 2,
+      "question": "click",
+      "answers": [null],
+      "wrightAnswerId": null,
+      "userAnswer": null,
+      "numberOfTrial": 0,
+      "level": "",
+      "questionType": null,
+      "answersType": null,
+      "startTime": "",
+      "endTime": ""
+    },
+
+    {
+      "id": 3,
+      "question": "click",
+      "answers": [null],
+      "wrightAnswerId": null,
+      "userAnswer": null,
+      "numberOfTrial": 0,
+      "level": "",
+      "questionType": null,
+      "answersType": null,
+      "startTime": "",
+      "endTime": ""
+    }
+  ]
+}
